@@ -1,0 +1,212 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.contact__information {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+.contact__information label {
+    min-width: 100px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.contact__information .first__block,
+.contact__information .second__block {
+  flex: 1;
+}
+
+.custom-email-block {
+  padding: 25px 25px;
+  background: #fafafa;
+  border-radius: 5px;
+}
+
+.custom-settings-block {
+  padding: 25px 25px;
+  background: #fafafa;
+  border-radius: 5px;
+}
+
+.settings-element {
+  display: flex;
+  align-items: center;
+}
+
+.settings-title {
+  padding: 20px 10px 20px 0;
+  width: 230px;
+  min-width: 230px;
+  font-weight: 600;
+}
+
+.settings-html {
+  padding: 20px 0 20px 0;
+  display: flex;
+    align-items: center;
+    gap:10px;
+}
+
+.settings-image {
+  /* height: 100px;
+    width: auto; */
+    transform: scale(0.5);
+}
+
+.test-email-block {
+  padding: 20px 25px;
+  background: #e2e8ee;
+  border-radius: 5px;
+}
+
+.custom-email-spinner {
+  position: relative;
+    display: none;
+}
+
+.custom-email-spinner-inner {
+  -webkit-animation: rotate 2s linear infinite;
+          animation: rotate 2s linear infinite;
+  z-index: 2;
+  position: relative;
+  margin: -5px 0 0 0;
+  width: 40px;
+  height: 40px;
+}
+
+.custom-email-spinner-inner .path {
+  stroke: #93bfec;
+  stroke-linecap: round;
+  -webkit-animation: dash 1.5s ease-in-out infinite;
+          animation: dash 1.5s ease-in-out infinite;
+}
+
+.idcrm-third-level,
+#toplevel_page_idcrm-contacts > ul > li:not(.wp-submenu-head) {
+  display: none;
+  text-wrap: nowrap;
+}
+
+.idcrm-menu-holder .idcrm-third-level {
+  display: block;
+}
+
+#toplevel_page_idcrm-contacts .wp-submenu li {
+  position: relative;
+}
+
+.idcrm-menu-holder {
+  position: absolute;
+      min-width: 140px;
+    left: 100%;
+    top: -8px;
+    background: #3e4347;
+    padding: 10px 20px;
+}
+
+#adminmenu .wp-submenu li.current .idcrm-menu-holder .cloned a {
+  color: rgba(240,246,252,.7);
+  font-weight: 400;
+}
+
+.idcrm-menu-parent.active {
+      color: #fff;
+  font-weight: 600;
+}
+
+#adminmenu .wp-submenu .idcrm-menu-holder .cloned a:focus,
+#adminmenu .wp-submenu li.current .idcrm-menu-holder .cloned a:focus,
+#adminmenu .wp-submenu .idcrm-menu-holder .cloned a:hover,
+#adminmenu .wp-submenu li.current .idcrm-menu-holder .cloned a:hover {
+  box-shadow: none;
+  color: #72aee6;
+}
+
+.custom-settings-block .activation-notice {
+  max-width: 300px;
+}
+
+.ti-angle-up,
+.ti-angle-down,
+.ti-angle-left,
+.ti-angle-right {
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(-45deg);
+}
+
+.dtp-select-month-after:hover .ti-angle-right,
+.dtp-select-month-after:hover .ti-angle-left,
+.dtp-select-year-after:hover .ti-angle-right,
+.dtp-select-year-after:hover .ti-angle-left,
+.dtp-select-year-range:hover .ti-angle-up,
+.dtp-select-year-range:hover .ti-angle-down,
+.ti-angle-up:hover,
+.ti-angle-down:hover,
+.ti-angle-left:hover,
+.ti-angle-right:hover {
+    box-shadow: 2px 2px 0px 0px #00000070;
+}
+
+.ti-angle-left {
+  transform: rotate(135deg);
+}
+
+.ti-angle-up {
+  transform: rotate(-135deg);
+}
+
+.ti-angle-down {
+  transform: rotate(45deg);
+}
+
+.dtp-select-year-range {
+      background: #8BC34A;
+}
+
+@-webkit-keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes dash {
+  0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -35;
+  }
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -124;
+  }
+}
+@keyframes dash {
+  0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -35;
+  }
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -124;
+  }
+}

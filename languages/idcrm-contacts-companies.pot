@@ -1,0 +1,1367 @@
+# Copyright (C) 2024 id:СRM Contacts & Companies
+# This file is distributed under the same license as the id:СRM Contacts & Companies package.
+msgid ""
+msgstr ""
+"Project-Id-Version: id:СRM Contacts & Companies 2.2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/idcrm-contacts-companies\n"
+"POT-Creation-Date: 2024-04-21 15:01:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/actions/idcrm-action-menu.php:51
+#: includes/actions/idcrm-action-menu.php:52
+msgid "Add contact"
+msgstr ""
+
+#: includes/actions/idcrm-action-menu.php:60
+#: includes/actions/idcrm-action-menu.php:61
+msgid "Contacts Statuses"
+msgstr ""
+
+#: includes/actions/idcrm-action-menu.php:69
+#: includes/actions/idcrm-action-menu.php:70
+msgid "Contacts Sources"
+msgstr ""
+
+#: includes/actions/idcrm-action-menu.php:78
+#: includes/actions/idcrm-action-menu.php:79
+#: includes/admin/idcrm-admin-user-manage.php:174
+#: includes/idcrm-contacts-company-cpt.php:171 templates/inc/sidebar.php:77
+msgid "Companies"
+msgstr ""
+
+#: includes/actions/idcrm-action-menu.php:87
+#: includes/actions/idcrm-action-menu.php:88 templates/inc/add-company.php:14
+msgid "Add company"
+msgstr ""
+
+#: includes/actions/idcrm-action-menu.php:96
+#: includes/actions/idcrm-action-menu.php:97
+msgid "Companies Statuses"
+msgstr ""
+
+#: includes/actions/idcrm-action-menu.php:105
+#: includes/actions/idcrm-action-menu.php:106
+#: includes/idcrm-contacts-schedule-cpt.php:102
+#: templates/inc/content-schedule.php:54 templates/single-company.php:362
+#: templates/single-contact.php:456
+msgid "Schedule"
+msgstr ""
+
+#: includes/actions/idcrm-action-menu.php:114
+#: includes/actions/idcrm-action-menu.php:115
+#: templates/inc/content-schedule-form.php:73
+msgid "Add Event"
+msgstr ""
+
+#: includes/actions/idcrm-action-menu.php:123
+#: includes/actions/idcrm-action-menu.php:124
+msgid "Event Types"
+msgstr ""
+
+#: includes/actions/idcrm-action-search.php:9
+#: includes/admin/idcrm-admin-event-manage-data.php:68
+#: includes/api/idcrm-api-contact.php:795
+#: includes/api/idcrm-api-contact.php:1191
+#: includes/idcrm-contacts-user-cpt.php:153
+#: includes/integrations/idcrm-integration-datepicker.php:32
+#: templates/archive-contacts.php:68 templates/inc/add-user-backup.php:317
+#: templates/inc/add-user-zadarma.php:448 templates/inc/add-user.php:348
+#: templates/single-contact.php:257
+msgid "Company"
+msgstr ""
+
+#: includes/actions/idcrm-action-search.php:10
+#: includes/admin/idcrm-admin-event-manage-data.php:66
+#: includes/admin/idcrm-admin-event-manage-filter.php:166
+#: includes/api/idcrm-api-contact.php:796
+#: includes/api/idcrm-api-contact.php:1187
+#: includes/integrations/idcrm-integration-datepicker.php:33
+#: templates/inc/add-user-zadarma.php:573
+msgid "Contact"
+msgstr ""
+
+#: includes/actions/idcrm-action-search.php:11
+#: includes/api/idcrm-api-contact.php:797 includes/api/idcrm-api.php:58
+msgid "Event"
+msgstr ""
+
+#: includes/actions/idcrm-action-search.php:12
+#: includes/api/idcrm-api-contact.php:798
+#: includes/api/idcrm-api-contact.php:1205
+#: includes/api/idcrm-api-contact.php:1217
+msgid "Deal"
+msgstr ""
+
+#: includes/actions/idcrm-action-search.php:13
+#: includes/api/idcrm-api-contact.php:799
+#: includes/api/idcrm-api-contact.php:1211
+msgid "Document"
+msgstr ""
+
+#: includes/actions/idcrm-action-search.php:14
+#: includes/api/idcrm-api-contact.php:800
+#: includes/idcrm-contacts-schedule-cpt.php:133
+#: templates/single-company.php:354 templates/single-contact.php:438
+msgid "Comments"
+msgstr ""
+
+#: includes/admin/idcrm-admin-event-manage-columns.php:27
+msgid "Event Date"
+msgstr ""
+
+#: includes/admin/idcrm-admin-event-manage-columns.php:42
+#: includes/admin/idcrm-admin-event-manage-filter.php:54
+#: includes/admin/idcrm-admin-event-manage-query.php:127
+#: includes/admin/idcrm-admin-event-manage-query.php:192
+#: templates/archive-companies.php:73 templates/archive-contacts.php:67
+msgid "Status"
+msgstr ""
+
+#: includes/admin/idcrm-admin-event-manage-columns.php:77
+msgid "Username"
+msgstr ""
+
+#: includes/admin/idcrm-admin-event-manage-data.php:34
+#: includes/admin/idcrm-admin-event-manage-filter.php:55
+#: includes/admin/idcrm-admin-event-manage-query.php:128
+#: includes/admin/idcrm-admin-event-manage-query.php:193
+#: includes/api/idcrm-api-event.php:93
+msgid "Active"
+msgstr ""
+
+#: includes/admin/idcrm-admin-event-manage-data.php:34
+#: includes/admin/idcrm-admin-event-manage-filter.php:56
+#: includes/admin/idcrm-admin-event-manage-query.php:129
+#: includes/admin/idcrm-admin-event-manage-query.php:194
+#: includes/api/idcrm-api-event.php:96
+msgid "Finished"
+msgstr ""
+
+#: includes/admin/idcrm-admin-event-manage-data.php:90
+msgid "Contact or company removed"
+msgstr ""
+
+#: includes/admin/idcrm-admin-event-manage-filter.php:32
+msgid "%s"
+msgstr ""
+
+#: includes/admin/idcrm-admin-event-manage-filter.php:86
+#: includes/admin/idcrm-admin-event-manage-filter.php:164
+#: includes/admin/idcrm-admin-event-manage-filter.php:191
+#: templates/inc/sidebar.php:57 templates/inc/sidebar.php:81
+msgid "All"
+msgstr ""
+
+#: includes/admin/idcrm-admin-event-manage-filter.php:86
+#: includes/admin/idcrm-admin-event-manage-filter.php:191
+#: includes/admin/idcrm-admin-user-manage.php:173
+#: includes/idcrm-contacts-user-cpt.php:400 templates/inc/sidebar.php:53
+msgid "Contacts"
+msgstr ""
+
+#: includes/admin/idcrm-admin-taxonomy-manage.php:28
+#: includes/admin/idcrm-admin-taxonomy-manage.php:44
+msgid "Event icon"
+msgstr ""
+
+#: includes/admin/idcrm-admin-taxonomy-manage.php:30
+#: includes/admin/idcrm-admin-taxonomy-manage.php:47
+msgid "Enter an icon name, example: people. Icon list: https://simplelineicons.github.io"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:56 includes/api/idcrm-api.php:61
+#: includes/integrations/idcrm-integration-datepicker.php:26
+#: templates/inc/add-company.php:182 templates/inc/add-user-backup.php:417
+#: templates/inc/add-user-zadarma.php:46 templates/inc/add-user-zadarma.php:548
+#: templates/inc/add-user-zadarma.php:602 templates/inc/add-user.php:447
+#: templates/inc/content-schedule.php:102
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:57
+#: includes/integrations/idcrm-integration-datepicker.php:27
+msgid "Ok"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:58
+#: includes/integrations/idcrm-integration-datepicker.php:28
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:59
+#: includes/integrations/idcrm-integration-datepicker.php:29
+msgid "Now"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:60
+msgid "Select an image"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:90
+#: includes/idcrm-settings.php:375 includes/idcrm-settings.php:417
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:91
+#: includes/api/idcrm-api-company.php:259
+#: includes/api/idcrm-api-contact.php:822
+#: includes/api/idcrm-api-contact.php:1417 includes/api/idcrm-api.php:75
+#: includes/idcrm-settings.php:376 includes/idcrm-settings.php:418
+#: templates/inc/comments-loop.php:202 templates/single-contact.php:87
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:92
+#: includes/admin/idcrm-admin-user-manage.php:101
+#: includes/idcrm-settings.php:286
+msgid "License information"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:93
+#: includes/idcrm-settings.php:367 includes/idcrm-settings.php:409
+msgid "Add your license key here"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:94
+msgid "License Key has wrong format"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:95
+msgid "Domain name is wrong"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:96
+msgid "License Key is wrong or does not exist"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:97
+msgid "License Key is successfully registered"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:98
+msgid "License server error, try later or contact support"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:99
+msgid "Are you sure you want to delete the license? You can add it again at any time."
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:100
+msgid "Error deleting license, please contact support"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:103
+msgid "Contacts created with Contact Form 7 will be assigned with this user"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:104
+msgid "Default start page"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:105
+msgid "Choose user"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:107
+#: includes/admin/idcrm-admin-user-manage.php:108
+#: includes/admin/idcrm-admin-user-manage.php:109
+#: includes/idcrm-settings.php:393
+msgid "Please activate your license key to unlock id:СRM Contacts & Companies Pro, you can get it here:"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:110
+#: includes/idcrm-settings.php:388 includes/idcrm-settings.php:393
+#: includes/idcrm-settings.php:430 includes/idcrm-settings.php:435
+msgid "Get License"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:111
+#: includes/admin/idcrm-admin-user-manage.php:112
+#: includes/admin/idcrm-admin-user-manage.php:113
+#: includes/idcrm-settings.php:379
+msgid "Your support of id:СRM Contacts & Companies Pro is active till:"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:114
+#: includes/idcrm-settings.php:387 includes/idcrm-settings.php:429
+msgid "Support expired, please update your license to get updates!"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:115
+#: includes/idcrm-settings.php:383 includes/idcrm-settings.php:425
+msgid "days left"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:177
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:178
+msgid "Mailbox"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:182
+#: templates/single-company.php:345
+msgid "Deals"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:183
+msgid "Documents"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:187
+#: templates/inc/breadcrumbs.php:306
+msgid "Tasks"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:188
+#: templates/inc/breadcrumbs.php:357 templates/inc/breadcrumbs.php:369
+msgid "Projects"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:192
+msgid "Team"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:193
+msgid "Departments"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:194
+msgid "Time Reports"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:367
+#: includes/admin/idcrm-admin-user-manage.php:371
+#: includes/idcrm-contacts-user-cpt.php:30
+msgid "Custom Local Avatar"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:385
+#: includes/idcrm-contacts-user-cpt.php:42
+#: includes/idcrm-contacts-user-cpt.php:44
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/idcrm-admin-user-manage.php:387
+msgid "Please upload a custom avatar for your profile, to remove the avatar simple delete the URL and click update."
+msgstr ""
+
+#: includes/api/idcrm-api-company.php:259
+#: includes/api/idcrm-api-contact.php:822
+#: includes/api/idcrm-api-contact.php:1417 templates/comments.php:67
+#: templates/inc/comments-loop.php:194 templates/inc/content-schedule.php:48
+#: templates/inc/events-loop.php:69 templates/single-company.php:61
+#: templates/single-company.php:276 templates/single-company.php:311
+#: templates/single-contact.php:81 templates/single-contact.php:407
+msgid "Edit"
+msgstr ""
+
+#: includes/api/idcrm-api-contact.php:1133
+msgid "File Attached"
+msgstr ""
+
+#: includes/api/idcrm-api-contact.php:1166
+msgid "Project"
+msgstr ""
+
+#: includes/api/idcrm-api-contact.php:1183
+msgid "Task"
+msgstr ""
+
+#: includes/api/idcrm-api-contact.php:1414 templates/single-company.php:54
+#: templates/single-contact.php:74
+msgid "Add deal"
+msgstr ""
+
+#: includes/api/idcrm-api.php:56
+msgid "activated"
+msgstr ""
+
+#: includes/api/idcrm-api.php:57
+msgid "finished"
+msgstr ""
+
+#: includes/api/idcrm-api.php:59
+msgid "Event added"
+msgstr ""
+
+#: includes/api/idcrm-api.php:60 includes/idcrm-settings.php:270
+#: templates/inc/content-schedule.php:103
+msgid "Save"
+msgstr ""
+
+#: includes/api/idcrm-api.php:62
+msgid "Deleted"
+msgstr ""
+
+#: includes/api/idcrm-api.php:64
+msgid "Error. All fields are required"
+msgstr ""
+
+#: includes/api/idcrm-api.php:65
+msgid "Comment sent"
+msgstr ""
+
+#: includes/api/idcrm-api.php:66
+msgid "Email sent"
+msgstr ""
+
+#: includes/api/idcrm-api.php:67
+msgid "Error"
+msgstr ""
+
+#: includes/api/idcrm-api.php:68
+msgid "You have to fill email options and send a test email in settings"
+msgstr ""
+
+#: includes/api/idcrm-api.php:69
+msgid "Mark as Starred"
+msgstr ""
+
+#: includes/api/idcrm-api.php:70
+msgid "Mark as Spam"
+msgstr ""
+
+#: includes/api/idcrm-api.php:71
+msgid "Not a Spam"
+msgstr ""
+
+#: includes/api/idcrm-api.php:72
+msgid "Move to"
+msgstr ""
+
+#: includes/api/idcrm-api.php:73
+msgid "Successfully moved"
+msgstr ""
+
+#: includes/api/idcrm-api.php:74
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/api/idcrm-api.php:76
+msgid "Please check at least one message"
+msgstr ""
+
+#: includes/api/idcrm-api.php:77
+msgid "Recover from Trash"
+msgstr ""
+
+#: includes/api/idcrm-api.php:78
+msgid "Message"
+msgstr ""
+
+#: includes/api/idcrm-api.php:79
+msgid "Nothing to save"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:26
+msgid "Company Info"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:46
+#: includes/idcrm-contacts-user-cpt.php:181 templates/single-company.php:158
+msgid "Facebook"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:50
+#: includes/idcrm-contacts-user-cpt.php:185 templates/single-company.php:166
+msgid "Twitter"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:54
+#: includes/idcrm-contacts-user-cpt.php:189
+msgid "Youtube"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:58
+msgid "Website (with http)"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:64
+msgid "TIN"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:69
+msgid "KPP"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:74
+msgid "LEI"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:127
+msgctxt "taxonomy general name"
+msgid "Company Statuses"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:128
+msgctxt "taxonomy singular name"
+msgid "Company Status"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:129
+msgid "Search Company Statuses"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:130
+msgid "All Company Statuses"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:131
+msgid "Parent Company Status"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:132
+msgid "Parent Company Status:"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:133
+msgid "Edit Company Status"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:134
+msgid "Update Company Status"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:135
+msgid "Add New Company Status"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:136
+msgid "New Company Status Name"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:137
+msgid "Company Statuses"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:196
+#: includes/idcrm-contacts-user-cpt.php:428
+#: templates/inc/add-user-backup.php:399 templates/inc/add-user-zadarma.php:159
+#: templates/inc/add-user-zadarma.php:499 templates/inc/add-user.php:181
+#: templates/inc/add-user.php:399
+msgid "Leads"
+msgstr ""
+
+#: includes/idcrm-contacts-company-cpt.php:204
+#: includes/idcrm-contacts-user-cpt.php:437
+msgid "Contractors"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:18
+msgid "Event Info"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:32
+#: templates/archive-companies.php:71 templates/archive-contacts.php:64
+#: templates/crm-notifications.php:47 templates/search.php:65
+msgid "Date"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:36
+msgid "Time"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:58
+msgctxt "taxonomy general name"
+msgid "Event Type"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:59
+msgctxt "taxonomy singular name"
+msgid "Event"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:60
+msgid "Search Events"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:61
+msgid "All Events"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:62
+msgid "Parent Event"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:63
+msgid "Parent Event:"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:64
+msgid "Edit Event"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:65
+msgid "Update Event"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:66
+msgid "Add New Event"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:67
+msgid "New Event Name"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:68
+msgid "Schedules"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:158
+msgid "Call"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:166
+msgid "Meeting"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:174
+msgid "Mail"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:182
+msgid "Bill"
+msgstr ""
+
+#: includes/idcrm-contacts-schedule-cpt.php:190
+msgid "Other"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:82
+msgid "Contact Info"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:135
+#: templates/inc/add-user-zadarma.php:442 templates/inc/add-user.php:342
+#: templates/single-contact.php:114
+msgid "Surname"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:140 templates/archive-contacts.php:71
+#: templates/comments.php:30 templates/inc/add-user-zadarma.php:444
+#: templates/inc/add-user.php:344 templates/single-contact.php:447
+msgid "E-mail"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:144 templates/archive-contacts.php:70
+#: templates/inc/add-user-backup.php:307 templates/inc/add-user-zadarma.php:446
+#: templates/inc/add-user-zadarma.php:571 templates/inc/add-user.php:346
+#: templates/single-company.php:220 templates/single-contact.php:133
+msgid "Phone"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:148
+msgid "Website with http://"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:155
+msgid "Select Company"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:161 templates/archive-contacts.php:69
+#: templates/inc/add-user-backup.php:333 templates/inc/add-user-zadarma.php:471
+#: templates/inc/add-user.php:371 templates/single-company.php:219
+#: templates/single-contact.php:285
+msgid "Position"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:169
+#: templates/inc/add-user-backup.php:356 templates/inc/add-user-zadarma.php:479
+#: templates/inc/add-user.php:379 templates/single-contact.php:302
+msgid "Birthday"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:173
+#: templates/inc/add-user-backup.php:338 templates/inc/add-user-zadarma.php:473
+#: templates/inc/add-user.php:373 templates/single-contact.php:317
+msgid "Gender"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:175
+#: templates/inc/add-user-backup.php:346 templates/inc/add-user-zadarma.php:475
+#: templates/inc/add-user.php:375 templates/single-contact.php:321
+msgid "Male"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:176
+#: templates/inc/add-user-backup.php:347 templates/inc/add-user-zadarma.php:476
+#: templates/inc/add-user.php:376 templates/single-contact.php:322
+msgid "Female"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:194 templates/single-contact.php:336
+msgid "Not count as lead"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:200 templates/single-contact.php:126
+msgid "Address by first name and surname"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:302
+msgctxt "taxonomy general name"
+msgid "Statuses"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:303
+msgctxt "taxonomy singular name"
+msgid "Status"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:304
+msgid "Search Statuses"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:305
+msgid "All Statuses"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:306
+msgid "Parent Status"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:307
+msgid "Parent Status:"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:308
+msgid "Edit Status"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:309
+msgid "Update Status"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:310
+msgid "Add New Status"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:311
+msgid "New Status Name"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:312
+msgid "Statuses"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:346
+msgctxt "taxonomy general name"
+msgid "Sources"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:347
+msgctxt "taxonomy singular name"
+msgid "Source"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:348
+msgid "Search Sources"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:349
+msgid "All Sources"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:350
+msgid "Parent Source"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:351
+msgid "Parent Source:"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:352
+msgid "Edit Source"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:353
+msgid "Update Source"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:354
+msgid "Add New Source"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:355
+msgid "New Source Name"
+msgstr ""
+
+#: includes/idcrm-contacts-user-cpt.php:356
+msgid "Sources"
+msgstr ""
+
+#: includes/idcrm-settings.php:90 includes/idcrm-settings.php:160
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: includes/idcrm-settings.php:95 includes/idcrm-settings.php:165
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/idcrm-settings.php:186
+msgid "Activate License"
+msgstr ""
+
+#: includes/idcrm-settings.php:191 includes/idcrm-settings.php:229
+#: includes/idcrm-settings.php:230
+msgid "Settings"
+msgstr ""
+
+#: includes/idcrm-settings.php:212
+msgid "\"id:СRM Contacts & Companies Pro\" requires \"id:СRM Contacts & Companies Free\" plugin to be intalled and activated."
+msgstr ""
+
+#: includes/idcrm-settings.php:214
+msgid "Click here to find \"id:CRM Contacts & Companies\" in Wordpress repository"
+msgstr ""
+
+#: includes/idcrm-settings.php:240
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/idcrm-settings.php:263
+msgid "Main Settings"
+msgstr ""
+
+#: includes/idcrm-settings.php:264
+msgid "License"
+msgstr ""
+
+#: includes/idcrm-settings.php:293
+msgid "id:СRM Contacts & Companies Pro"
+msgstr ""
+
+#: includes/idcrm-settings.php:306
+msgid "id:CRM Deals & Documents"
+msgstr ""
+
+#: includes/idcrm-settings.php:326
+msgid "Mailbox settings"
+msgstr ""
+
+#: includes/idcrm-settings.php:333
+msgid "Mailbox messages count per page"
+msgstr ""
+
+#: includes/idcrm-settings.php:421
+msgid "Your support of id:СRM Deals & Documents is active till:"
+msgstr ""
+
+#: includes/idcrm-settings.php:435
+msgid "Please activate your license key to unlock id:СRM Deals & Documents, you can get it here:"
+msgstr ""
+
+#: includes/idcrm-settings.php:455
+msgid "To add an e-mail address please open User Profile"
+msgstr ""
+
+#: includes/idcrm-settings.php:455
+msgid "Add mailbox"
+msgstr ""
+
+#: includes/integrations/idcrm-integration-datepicker.php:31
+#: templates/crm-notifications.php:48 templates/inc/add-user-backup.php:366
+#: templates/inc/add-user-zadarma.php:482 templates/inc/add-user.php:382
+#: templates/single-contact.php:235
+msgid "Source"
+msgstr ""
+
+#: includes/integrations/idcrm-integration-datepicker.php:34
+msgid "No results"
+msgstr ""
+
+#: templates/archive-companies.php:72 templates/archive-contacts.php:65
+#: templates/search.php:64
+msgid "Title"
+msgstr ""
+
+#: templates/archive-companies.php:74 templates/archive-contacts.php:72
+#: templates/search.php:67
+msgid "Manager"
+msgstr ""
+
+#: templates/archive-companies.php:97
+msgid "No companies"
+msgstr ""
+
+#: templates/archive-contacts.php:66
+msgid "Events"
+msgstr ""
+
+#: templates/archive-contacts.php:109
+msgid "No contacts"
+msgstr ""
+
+#: templates/comments.php:33 templates/comments.php:36
+msgid "Comment"
+msgstr ""
+
+#: templates/comments.php:101
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/crm-notifications.php:31 templates/inc/sidebar.php:40
+msgid "Notifications"
+msgstr ""
+
+#: templates/crm-notifications.php:49
+msgid "Text"
+msgstr ""
+
+#: templates/crm-profile.php:58 templates/inc/header.php:286
+msgid "My Profile"
+msgstr ""
+
+#: templates/crm-profile.php:88 templates/inc/add-user-backup.php:275
+#: templates/inc/add-user-zadarma.php:438 templates/inc/add-user.php:338
+#: templates/single-contact.php:110
+msgid "First Name"
+msgstr ""
+
+#: templates/crm-profile.php:89 templates/inc/add-user-backup.php:286
+#: templates/inc/add-user-zadarma.php:440 templates/inc/add-user.php:340
+#: templates/single-contact.php:118
+msgid "Last Name"
+msgstr ""
+
+#: templates/crm-profile.php:92
+msgid "Update"
+msgstr ""
+
+#: templates/crm.php:143
+msgid "Sign In"
+msgstr ""
+
+#: templates/crm.php:151
+msgid "Login"
+msgstr ""
+
+#: templates/crm.php:156
+msgid "Password"
+msgstr ""
+
+#: templates/crm.php:163
+msgid "Remember me"
+msgstr ""
+
+#: templates/crm.php:167
+msgid "Forgot pwd?"
+msgstr ""
+
+#: templates/crm.php:175
+msgid "Log In"
+msgstr ""
+
+#: templates/inc/add-company.php:28
+msgid "Assign company"
+msgstr ""
+
+#: templates/inc/add-company.php:40 templates/inc/add-user-backup.php:17
+#: templates/inc/add-user.php:16
+msgid "Add new"
+msgstr ""
+
+#: templates/inc/add-company.php:137
+msgid "Add New Company"
+msgstr ""
+
+#: templates/inc/add-company.php:144 templates/single-company.php:80
+msgid "Company Title"
+msgstr ""
+
+#: templates/inc/add-company.php:148 templates/single-company.php:108
+msgid "Company Status"
+msgstr ""
+
+#: templates/inc/add-company.php:172
+msgid "Logo Upload"
+msgstr ""
+
+#: templates/inc/add-company.php:180 templates/inc/add-user-zadarma.php:545
+#: templates/inc/add-user.php:445
+msgid "Add"
+msgstr ""
+
+#: templates/inc/add-user-backup.php:228 templates/inc/add-user-zadarma.php:330
+#: templates/inc/add-user.php:297
+msgid "This is a duplicate. Change the e-mail."
+msgstr ""
+
+#: templates/inc/add-user-backup.php:235 templates/inc/add-user-zadarma.php:331
+#: templates/inc/add-user.php:298
+msgid "Continue"
+msgstr ""
+
+#: templates/inc/add-user-backup.php:263 templates/inc/add-user-zadarma.php:431
+#: templates/inc/add-user.php:331
+msgid "Add New Contact"
+msgstr ""
+
+#: templates/inc/add-user-backup.php:381 templates/inc/add-user-zadarma.php:498
+#: templates/inc/add-user.php:398 templates/single-contact.php:205
+msgid "Contact Status"
+msgstr ""
+
+#: templates/inc/add-user-backup.php:407 templates/inc/add-user-zadarma.php:537
+#: templates/inc/add-user.php:437
+msgid "Photo Upload"
+msgstr ""
+
+#: templates/inc/add-user-backup.php:415
+msgid "Add Contact"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:44
+msgid "Answered"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:45
+msgid "Busy"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:47
+msgid "No answer"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:48
+msgid "Failed"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:49
+msgid "No money"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:50
+msgid "Unallocated number"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:51
+msgid "No limit"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:52
+msgid "No day limit"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:53
+msgid "Line limit"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:54
+msgid "No money, no limit"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:57
+msgid "No status"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:253
+#: templates/inc/add-user-zadarma.php:387
+msgid "Outgoing call"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:253
+#: templates/inc/add-user-zadarma.php:387
+msgid "Incoming call"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:257
+#: templates/inc/add-user-zadarma.php:391
+msgid "with duration"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:257
+#: templates/inc/add-user-zadarma.php:391
+msgid "seconds"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:261
+#: templates/inc/add-user-zadarma.php:395
+msgid "record will be available within few minutes"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:480 templates/inc/add-user.php:380
+msgid "dd.mm.yyyy"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:563 templates/inc/add-user.php:36
+msgid "Assign Contact"
+msgstr ""
+
+#: templates/inc/add-user-zadarma.php:599
+msgid "Assign"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:135
+msgid "Page"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:142 templates/inc/breadcrumbs.php:384
+msgid "Home"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:149
+msgid "404 Error"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:152
+msgid "Search results for"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:155
+msgid "Author archive"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:162
+msgid "Year archive"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:171
+msgid "Month archive"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:182 templates/inc/breadcrumbs.php:288
+#: templates/inc/breadcrumbs.php:310 templates/inc/breadcrumbs.php:367
+msgid "Knowledge"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:257
+msgid "Media"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:278
+msgid "Tag"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:294
+msgid "of"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:294
+msgid "by tag"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:429
+msgid "Invoice"
+msgstr ""
+
+#: templates/inc/breadcrumbs.php:439
+msgid "from"
+msgstr ""
+
+#: templates/inc/comments-loop.php:160
+msgid "Deleted user"
+msgstr ""
+
+#: templates/inc/comments-loop.php:234
+msgid "Reply"
+msgstr ""
+
+#: templates/inc/comments-loop.php:251
+msgid "Forward"
+msgstr ""
+
+#: templates/inc/comments-loop.php:343
+msgid "Like"
+msgstr ""
+
+#: templates/inc/content-comment-form.php:11
+#: templates/inc/content-comment-form.php:37
+msgid "Write a Comment"
+msgstr ""
+
+#: templates/inc/content-comment-form.php:15
+#: templates/inc/content-comment-form.php:43
+msgid "Comment text"
+msgstr ""
+
+#: templates/inc/content-comment-form.php:23
+#: templates/inc/content-comment-form.php:34
+msgid "Send"
+msgstr ""
+
+#: templates/inc/content-schedule-form.php:24
+msgid "Make a Schedule"
+msgstr ""
+
+#: templates/inc/content-schedule-form.php:29
+#: templates/inc/content-schedule.php:94
+msgid "Event type"
+msgstr ""
+
+#: templates/inc/content-schedule-form.php:48
+#: templates/inc/content-schedule.php:78
+msgid "Check date"
+msgstr ""
+
+#: templates/inc/content-schedule-form.php:56
+#: templates/inc/content-schedule.php:82
+msgid "Check time"
+msgstr ""
+
+#: templates/inc/content-schedule-form.php:65
+#: templates/inc/content-schedule.php:75
+msgid "Topic"
+msgstr ""
+
+#: templates/inc/content-schedule.php:69
+msgid "Event Editing"
+msgstr ""
+
+#: templates/inc/footer.php:18
+msgid "Copyright"
+msgstr ""
+
+#: templates/inc/footer.php:18
+msgid "id:CRM by"
+msgstr ""
+
+#: templates/inc/footer.php:33
+msgid "Layout Settings"
+msgstr ""
+
+#: templates/inc/footer.php:37
+msgid "Dark Theme"
+msgstr ""
+
+#: templates/inc/footer.php:43
+msgid "Collapse Sidebar"
+msgstr ""
+
+#: templates/inc/footer.php:49
+msgid "Fixed Sidebar"
+msgstr ""
+
+#: templates/inc/footer.php:55
+msgid "Fixed Header"
+msgstr ""
+
+#: templates/inc/footer.php:61
+msgid "Boxed Layout"
+msgstr ""
+
+#: templates/inc/footer.php:67
+msgid "Logo Backgrounds"
+msgstr ""
+
+#: templates/inc/footer.php:92
+msgid "Navbar Backgrounds"
+msgstr ""
+
+#: templates/inc/footer.php:117
+msgid "Sidebar Backgrounds"
+msgstr ""
+
+#: templates/inc/header.php:221
+msgid "Search Mail"
+msgstr ""
+
+#: templates/inc/header.php:231
+msgid "Search …"
+msgstr ""
+
+#: templates/inc/header.php:233
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: templates/inc/header.php:292
+msgid "Logout"
+msgstr ""
+
+#: templates/inc/sidebar.php:30
+msgid "CRM Dashboard"
+msgstr ""
+
+#: templates/inc/sidebar.php:48
+msgid "Database"
+msgstr ""
+
+#: templates/search.php:25
+msgid "Search results: "
+msgstr ""
+
+#: templates/search.php:66
+msgid "Type"
+msgstr ""
+
+#: templates/single-company.php:29 templates/single-contact.php:49
+msgid "Apply changes"
+msgstr ""
+
+#: templates/single-company.php:34 templates/single-contact.php:54
+msgid "Cancel changes"
+msgstr ""
+
+#: templates/single-company.php:119 templates/single-contact.php:152
+msgid "Website"
+msgstr ""
+
+#: templates/single-company.php:174
+msgid "YouTube"
+msgstr ""
+
+#: templates/single-company.php:192 templates/single-company.php:194
+msgid "TIN:"
+msgstr ""
+
+#: templates/single-company.php:198 templates/single-company.php:200
+msgid "KPP:"
+msgstr ""
+
+#: templates/single-company.php:204 templates/single-company.php:206
+msgid "LEI:"
+msgstr ""
+
+#: templates/single-company.php:218
+msgid "Name"
+msgstr ""
+
+#: templates/single-company.php:221 templates/single-contact.php:139
+msgid "Email"
+msgstr ""
+
+#: templates/single-company.php:317 templates/single-contact.php:413
+msgid "Notes"
+msgstr ""
+
+#: templates/single-contact.php:218
+msgid "From: "
+msgstr ""
+
+#: templates/single-contact.php:250
+msgid "Works in: "
+msgstr ""
+
+#: templates/single-contact.php:283
+msgid "At position: "
+msgstr ""
+
+#: templates/single-contact.php:307
+msgid "Birthday: "
+msgstr ""
+
+#: templates/single-contact.php:466
+msgid "Call history"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "id:СRM Contacts & Companies"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "id:CRM module for contacts and companies."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "id:Result"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://idresult.ru/"
+msgstr ""
